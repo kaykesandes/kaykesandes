@@ -11,15 +11,9 @@
 </p>
 
 <p align="left">
-• ⚒ Ferramentas: <strong>IntelliJ IDEA, VSCode, MySQL.</strong>
+• ⚒ Ferramentas: <strong>VSCode</strong>
   <p>
 <palign="left">
-  <a href="#" alt="Java">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-
-  <a href="#" alt="MySQL">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-
   </div>
   
   ##
