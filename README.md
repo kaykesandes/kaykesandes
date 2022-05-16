@@ -3,7 +3,7 @@
 ### Olá sou Kayke Dev Python <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 <p align="left"> 
-  Faço projetos .
+  Estudo em foco em aplicações NET | Gosto muito de fisíca 
 </p>
 
 <p align="left">
