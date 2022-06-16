@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-### Olá sou Kayke Dev Python <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### Olá sou Kayke Dev Python <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
 
 <p align="left"> 
   Estudo em foco em aplicações NET | Gosto muito de fisíca 
@@ -21,7 +21,7 @@
 <div> 
   
   <a href="#" alt="VSCode">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+  <img src="https://i.pinimg.com/564x/f0/7c/cf/f07ccf2cd1ee4dcfefecdc932916a06f.jpg"/></a>
   
   </div>
   
