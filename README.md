@@ -4,11 +4,11 @@
 ## <img src="https://i.pinimg.com/564x/30/5a/97/305a97cdb47f552174b8e64d5e4efd3e.jpg" alt="drawing" width="250"/>
 
  <p align="left"> 
-  Estudando para vestibular, mas faço aplicações em .NET Matemática, Física, Ciência d/ dados<3
+  Estudando Matemática, Física, Ciência d/ dados, c, c#(.NET),Python
 </p>
 
 <p align="left">
-• 💻 Linguagens: <strong>C#(.NET) Intermediário|HTML Iniciante</strong>
+• 💻 Linguagens: <strong>C#(.NET) Intermediário|C Básico|HTML e CSS (SEI Q N E LINGUAGEM, obg<3)|Python</strong>
 </p>
 
 <p align="left">
