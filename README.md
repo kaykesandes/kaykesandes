@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-• ⚒ Ferramentas: <strong>VSCode</strong>
+• ⚒ Ferramentas: <strong>Nvim</strong>
   <p>
 <palign="left">
   </div>
