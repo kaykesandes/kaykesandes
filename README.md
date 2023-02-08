@@ -14,6 +14,7 @@
 <h2>Projetos Destacados: </h2>
 <ul>
   <li>Site com sistema de horario:<a href="https://github.com/GiyuKayke/Ex1">Link</a></li>
+  <li>Site para verificar idade<a href="https://ex2-inky.vercel.app/" target="_top">Link</a></li>
 </ul>
 <h2>Contato</h2>
 <ul>
