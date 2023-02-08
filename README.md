@@ -1,36 +1,25 @@
-<img src="https://i.pinimg.com/564x/af/13/fa/af13fae7fc2b0cd9969d4b7a3e867419.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
-
-### Olá sou um dev random <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="drawing" width="25"/>
-## <img src="https://i.pinimg.com/564x/30/5a/97/305a97cdb47f552174b8e64d5e4efd3e.jpg" alt="drawing" width="250"/>
-
- <p align="left"> 
-  Estudando Matemática, Física, Ciência d/ dados, c, c#(.NET),Python
-</p>
-
-<p align="left">
-• 💻 Linguagens: <strong>C#(.NET) Intermediário|C Básico|HTML e CSS (SEI Q N E LINGUAGEM, obg<3)|Python</strong>
-</p>
-
-<p align="left">
-• ⚒ Ferramentas: <strong>Nvim</strong>
-  <p>
-<palign="left">
-  </div>
-  
-  ##
- 
-<div> 
-  
-  <a href="#" alt="VSCode">
-  <img src="https://i.pinimg.com/564x/69/bc/d5/69bcd551be864e10eb601e077f012358.jpg"alt="drawing" width="200"/></a>
-  
-  </div>
-  
-  ##
-  
-<div> 
-<a href = "https://www.instagram.com/kayke.gy/"><img src="https://oktobarbike.com.br/wp-content/uploads/2016/08/instagram-icon.png" target="_blank"alt="drawing" width="50"></a>
-</div>
-<a href = "mailto:kaykesandesg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</p>  
+# Kayke Sandes  
+<img src="https://i.imgur.com/VT82dc3.png">
+<br>
+<p>  Olá, eu sou Kayke Sandes, um desenvolvedor júnior com habilidades em diversas linguagens de programação. Estou sempre em busca de aprender e desenvolver meus conhecimentos em tecnologia da informação. <br> Além disso, atualmente estou <strong>cursando segurança da informação e engenharia de software</strong> para ampliar meus conhecimentos e habilidades.</p>
+<h2> Habilidades:</h2>
+<ul>
+  <li>C</li>
+  <li>Python</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>C#</li>
+  <li>C++</li>
+</ul>
+<h2>Projetos Destacados: </h2>
+<ul>
+  <li>Site com sistema de horario:<a href="https://github.com/GiyuKayke/Ex1">Link</a></li>
+</ul>
+<h2>Contato</h2>
+<ul>
+ <li><a href="https://www.linkedin.com/in/kayke-gon%C3%A7alves-sandes-171b7223a/">Linkedin</a></li>
+ <li>Email:<br>kaykesandesg@gmail.com</li>
+ <li><a href="https://www.instagram.com/kayke.gy/">Instagram</a></li>
+ <li><a href="https://twitter.com/KaykeSandes">Twitter</a></li>
+ <li>Discord:<br>Kayke🔴⚫#1781</li>
+</ul>
