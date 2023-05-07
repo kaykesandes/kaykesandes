@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+}
+/* HEADER */
+ul{
+    list-style: none;
+    padding: 0;
+    overflow: hidden;
+}
+.navHeader{
+    background-color: black;
+    padding: 0;
+    justify-content: space-between;
+    align-items: center;
+}
+h1, p{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav, ul{
+    display: flex;
+    flex-direction: row;
+}
+li{
+    padding: 0 20px;
+}
+h1{
+    margin: 0;
+    padding: 19px;
+    font-size: 37pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#botaologo{
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-size: 36px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    display: none;
+}
+
+li:hover, h1:hover, button:hover{
+    cursor: pointer;
+    opacity: 0.9;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+button:focus ~ ul{
+    height: 260px;
+}
+
+    /* SALE */
+
+    
+
+    /* Wrapper */
+.wrapper{
+    max-height: 120px;
+    border: 1px solid black;
+    display: flex;
+    overflow-x: auto;
+    overflow-y: none;
+}
+.wrapper::-webkit-scrollbar{
+    width: 0;
+}
+.wrapper .item{
+    min-width: 110px;
+    height: 110px;
+    line-height: 110px;
+    text-align: center;
+    background-color: azure;
+    margin-right: 2px;
+
+}
+
+/* CElULAR */
+
+@media (max-width: 700px){
+    nav, ul{
+        flex-direction: column;
+    }
+    ul{
+        text-align: center;
+        margin: 0;
+        height: 0;
+    }
+    .navHeader{
+        padding: 0px;
+        align-items: flex-start;
+    }
+    h1{
+        margin: 10px;
+    }
+    #botaologo{
+        display: flex;
+    }
+    li, ul{
+        width: 100%;
+    }
+    /* Wrapper */
+    .wrapper{
+        max-height: 120px;
+        border: 1px solid black;
+        display: flex;
+        overflow-x: auto;
+    }
+
+
+    .itemSale{
+        max-height: 120px;
+        border: 1px solid black;
+        display: flex;
+        overflow-x: auto;
+    }
+    
+
+}
