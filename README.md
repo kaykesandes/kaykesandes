@@ -1,4 +1,4 @@
-### Olá sou o kayke Sande 🤙
+### Olá sou o kayke Sandes 🤙
 
 <img src="https://i.imgur.com/VT82dc3.png">
 
