@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayke.gy/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511912324408)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiyuKayke&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaykesandes&show_icons=true&theme=tokyonight)
 
 <hr>
 
@@ -36,4 +36,4 @@
 
 <hr>
 
-![Kayke](https://github-readme-stats.vercel.app/api/top-langs/?username=GiyuKayke&layout=donut)
+![Kayke](https://github-readme-stats.vercel.app/api/top-langs/?username=kaykesandes&layout=donut)
