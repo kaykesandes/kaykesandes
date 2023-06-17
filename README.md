@@ -1,27 +1,39 @@
-# Kayke Sandes  
+### Olá sou o kayke Sandes 🤙
+
 <img src="https://i.imgur.com/VT82dc3.png">
-<br>
-<p>  Olá, eu sou Kayke Sandes, um desenvolvedor júnior com habilidades em diversas linguagens de programação. Estou sempre em busca de aprender e desenvolver meus conhecimentos em tecnologia da informação. <br> Além disso, atualmente estou <strong>cursando segurança da informação e engenharia de software</strong> para ampliar meus conhecimentos e habilidades.</p>
-<h2> Habilidades:</h2>
-<ul>
-  <li>C</li>
-  <li>Python</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>C#</li>
-  <li>C++</li>
-</ul>
-<h2>Projetos Destacados: </h2>
-<ul>
-  <li>Site com tema css<a href="https://css-animation-ex1.vercel.app/" target="_top">Link</a></li>
-  <li>Site com sistema de horario:<a href="https://github.com/GiyuKayke/Ex1">Link</a></li>
-  <li>Site para verificar idade<a href="https://ex2-inky.vercel.app/" target="_top">Link</a></li>
-</ul>
-<h2>Contato</h2>
-<ul>
- <li><a href="https://www.linkedin.com/in/kayke-gon%C3%A7alves-sandes-171b7223a/">Linkedin</a></li>
- <li>Email:<br>kaykesandesg@gmail.com</li>
- <li><a href="https://www.instagram.com/kayke.gy/">Instagram</a></li>
- <li><a href="https://twitter.com/KaykeSandes">Twitter</a></li>
- <li>Discord:<br>Kayke🔴⚫#1781</li>
-</ul>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-sandes-1ab42527a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayke.gy/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511912324408)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiyuKayke&show_icons=true&theme=tokyonight)
+
+<hr>
+
+## Tecnologias do meu dia: 
+<div style="display: inline-block"><br/>
+    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img align="center" alt="Pyhon" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=whitee">
+    <img align="center" alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" alt="Mysql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">     
+</div>
+
+<hr>
+
+## Ambiente de trabalho:
+<div style="display: inline-block"><br/>
+    <img align="center" alt="Ach" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+    <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img align="center" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+    <img align="center" alt="Nvim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+    <img align="center" alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+
+<hr>
+
+![Kayke](https://github-readme-stats.vercel.app/api/top-langs/?username=GiyuKayke&layout=donut)
