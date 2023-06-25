@@ -5,7 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-sandes-1ab42527a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayke.gy/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaykesandes&show_icons=true&theme=tokyonight)
+
+![Codewars](https://github.r2v.ch/codewars?user=kaykesandes&stroke=%23BB432C)
 
 <hr>
 
@@ -34,5 +35,7 @@
 </div>
 
 <hr>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaykesandes&show_icons=true&theme=tokyonight)
 
 ![Kayke](https://github-readme-stats.vercel.app/api/top-langs/?username=kaykesandes&layout=donut)
