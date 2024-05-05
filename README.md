@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayke.gy/)
 
 
-![Codewars](https://github.r2v.ch/codewars?user=kaykesandes&stroke=%23BB432C)
+![Codewars]([https://github.r2v.ch/codewars?user=kaykesandes&stroke=%23BB432C](https://camo.githubusercontent.com/f7dbadce2959fd33fbe1586397494b3adac992903485e8ab1455b6491efc8fe3/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f6b61796b6573616e6465732f6261646765732f6c61726765))
 
 <hr>
 
