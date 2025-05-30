@@ -84,7 +84,7 @@ class Player:
 - ✅ Mestre em automação de processos
 - ⏳ Em progresso: Graduação em Ciência da Computação (83% completo)
 
-  ## 🚧 Projetos em Andamento
+## 🚧 Projetos em Andamento
 
 ### 🎮 **Escape: Backroom** (Desenvolvimento de Game)
 *Um jogo de survival horror com elementos roguelike em um universo misterioso*  
