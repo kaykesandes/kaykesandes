@@ -12,7 +12,7 @@
 
 ## 🎯 Player Stats
 
-- **Nome no Jogo**: Kantos
+- **Nome no Jogo**: This is my life
 - **Classe**: Professor de Python | Dev de Jogos
 - **Level**: 25
 - **HP**: 150/150
