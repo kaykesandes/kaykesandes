@@ -1,4 +1,4 @@
-# 👾 Olá, eu sou o Kayke "Kantos" Sandes! 
+# 👾 Olá, eu sou o Kayke Sandes! 
 
 <img src="https://i.imgur.com/RxHTCVt.jpeg" alt="Banner Gamer Kayke Sandes" width="20%">
 
@@ -83,6 +83,31 @@ class Player:
 - ✅ Criador de bots em Python
 - ✅ Mestre em automação de processos
 - ⏳ Em progresso: Graduação em Ciência da Computação (83% completo)
+
+  ## 🚧 Projetos em Andamento
+
+### 🎮 **Escape: Backroom** (Desenvolvimento de Game)
+*Um jogo de survival horror com elementos roguelike em um universo misterioso*  
+🔧 **Tecnologias:** Unity 3D, C#  
+📌 **Status:** Protótipo inicial (35% completo)  
+✨ **Features em desenvolvimento:**  
+- Geração procedural de mapas  
+- IA adaptativa para inimigos  
+- Sistema de progressão entre níveis  
+- Atmosfera imersiva com efeitos visuais  
+
+### 🔦 **TCC: Raycasting Engine**
+*Motor gráfico inspirado em clássicos como Wolfenstein 3D*  
+🔧 **Tecnologias:** C++, SDL2  
+📌 **Status:** Implementação do renderizador básico (50% completo)  
+🎯 **Objetivos técnicos:**  
+- Sistema de renderização eficiente  
+- Gerenciamento de texturas  
+- Iluminação dinâmica  
+
+### 🛠️ **Outros Projetos**
+- **Discord Bot** (Python) - Bot com integrações para comunidades gamers  
+- **Portfólio Interativo** (Three.js) - Exposição 3D de projetos  
 
 ## 🎲 Missões Atuais
 
