@@ -1,6 +1,6 @@
 # 👾 Olá, eu sou o Kayke Sandes! 
 
-<img src="https://i.imgur.com/RxHTCVt.jpeg" alt="Banner Gamer Kayke Sandes" width="20%">
+<img src="https://i.imgur.com/314IBvG.jpeg" alt="Banner Gamer Kayke Sandes" width="20%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-gon%C3%A7alves-sandes-171b7223a/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0066?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayke.gy/)
