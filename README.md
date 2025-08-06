@@ -14,7 +14,7 @@
 
 - **Nome no Jogo**: This is my life
 - **Classe**: Professor de Python | Dev de Jogos
-- **Level**: 25
+- **Level**: 21
 - **HP**: 150/150
 - **MP**: 200/200
 - **XP**: [██████████] 78%
