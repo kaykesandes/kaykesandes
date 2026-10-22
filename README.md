@@ -82,6 +82,6 @@ I use AI as a development and acceleration tool. I use agents to explore codebas
  
 ```diff
 + 2026 - Present: Data Scientist at Nubank 🟣
-+ 2025 - Present: Teacher at Kodland Latinoamérica
++ 2025 - 2026: Teacher at Kodland Latinoamérica
 ```
  
